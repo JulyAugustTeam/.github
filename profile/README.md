@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-I am Anett and i feel like I now so much, but so little in the same time. Feel anxiety about the employment market. I like Java more, because it is written out more, lots of shortcuts in phyton, my brain does not proccess this well xd.
+
